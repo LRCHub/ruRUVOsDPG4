@@ -1,0 +1,69 @@
+# Kep1er – Wing Wing
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.65] Buzzin'
+[00:09.47] Hi there 見て! 広がる羽
+[00:13.28] 両手 空に向け up 扉開くよ knock
+[00:17.02] 心臓が ra-pa-pa-pam
+[00:18.71] また ra-pa-pa-pam
+[00:19.68] さぁ la-ta-ta-ta
+[00:20.78] Go higher 最高 vibe
+[00:22.30] もう fever, fever, fever, boom
+[00:24.81] Loud 世界に向け放つ wave
+[00:28.85] あの日の夢 抱きしめて
+[00:32.22] 光の先へ 今 羽ばたかせ
+[00:35.89] 甘い蜜へと wing buzzin'
+[00:38.72] Wing wing wing wing
+[00:41.28] 鳴り響く音に惹かれ
+[00:44.77] たどり着く場所はきっと
+[00:47.00] Make it burn
+[00:48.67] Enjoy a dream
+[00:50.79] ずっと囁こう君に
+[00:53.64] Buzzin'
+[00:54.11] Wing wing, aya ya ya
+[00:59.98] 'Cause I'm your universe
+[01:01.59] Wing wing, aya ya ya
+[01:06.22] Du-du-da, du-du-du
+[01:07.27] もっとドキドキさせて wing wing
+[01:11.11] 輝く日々は highlight (ya hoo)
+[01:15.29] 惹かれる chemistry 辿っていくよ
+[01:18.95] Yes sir, I'm a racer 光追いかける chaser
+[01:22.45] 勇気出して let's get it on
+[01:24.53] 飛び出そうよ Kep1 goin' on
+[01:26.77] Loud 世界に向け放つ wave
+[01:30.93] あの日の夢 抱きしめて
+[01:34.16] 光の先へ 今 羽ばたかせ
+[01:37.67] 甘い蜜へと wing buzzin'
+[01:40.78] Wing wing wing wing
+[01:43.11] 鳴り響く音に惹かれ
+[01:46.74] たどり着く場所はきっと
+[01:48.87] Make it burn, enjoy a dream
+[01:52.76] ずっと囁こう君に
+[01:55.47] Buzzin'
+[01:56.00] Wing wing, aya ya ya
+[02:01.85] 'Cause I'm your universe
+[02:03.44] Wing wing, aya ya ya
+[02:07.92] Du-du-da, du-du-du
+[02:09.24] もっとドキドキさせて wing wing
+[02:13.00] Hey, whoa uh whoa uh
+[02:17.03] You make me fly, woo
+[02:18.92] Whoa uh, whoa uh, whoa uh
+[02:21.36] ABC to the XYZ
+[02:24.30] You make me high, woo
+[02:26.77] きっとこれを運命と呼ぶのかも
+[02:33.70] 高まる gauge 揺れる鼓動
+[02:37.11] キミの声も聞かせて
+[02:40.82] Wing wing wing wing
+[02:43.00] 鳴り響く音に惹かれ
+[02:46.77] たどり着く場所はきっと
+[02:48.83] Make it burn, enjoy a dream
+[02:52.75] ずっと囁こう君に
+[02:55.39] Buzzin'
+[02:56.00] Wing wing, aya ya ya
+[03:01.71] 'Cause I'm your universe
+[03:03.51] Wing wing, aya ya ya
+[03:07.85] Du-du-da, du-du-du
+[03:09.30] もっとドキドキさせて wing wing
+```
