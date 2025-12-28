@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Wing Wing",
+  "base_artist": "Kep1er",
+  "createdAt": "2025-12-28T04:44:13.489694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wing Wing",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/01_Wing_Wing_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wing Wing",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/02_Wing_Wing_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wing Wing - From THE FIRST TAKE",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/03_Wing_Wing_-_From_THE_FIRST_TAKE_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wing Wing",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/04_Wing_Wing_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wing Wing Music Video",
+      "artist": "Kep1er",
+      "has_synced": true,
+      "path": "select/05_Wing_Wing_Music_Video_Kep1er.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Broken Wing",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/06_A_Broken_Wing_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Broken Wing",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/07_A_Broken_Wing_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Wing In the Fire",
+      "artist": "Trent Tomlinson",
+      "has_synced": false,
+      "path": "select/08_One_Wing_In_the_Fire_Trent_Tomlinson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Word on a Wing",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Word_on_a_Wing_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Word on a Wing - Single Edit; 2016 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_Word_on_a_Wing_-_Single_Edit;_2016_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Word On A Wing (Single Edit)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Word_On_A_Wing_(Single_Edit)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Wing",
+      "artist": "Alkaline Trio",
+      "has_synced": true,
+      "path": "select/12_Broken_Wing_Alkaline_Trio.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Butterfly's Wing",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/13_Butterfly's_Wing_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ice on the Wing",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/14_Ice_on_the_Wing_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Comin' In On A Wing And A Prayer",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/15_Comin'_In_On_A_Wing_And_A_Prayer_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Wing",
+      "artist": "Beau",
+      "has_synced": false,
+      "path": "select/16_One_Wing_Beau.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bird With A Broken Wing",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/17_Bird_With_A_Broken_Wing_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bird With a Broken Wing",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/18_Bird_With_a_Broken_Wing_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sleep on the Wing",
+      "artist": "Bibio",
+      "has_synced": true,
+      "path": "select/19_Sleep_on_the_Wing_Bibio.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Colonial Wing",
+      "artist": "10,000 Maniacs",
+      "has_synced": false,
+      "path": "select/20_The_Colonial_Wing_10,000_Maniacs.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wing Wing",
+      "artist": "Kep1er",
+      "has_synced": false,
+      "path": "select/pl_01_Wing_Wing_Kep1er.txt"
+    }
+  ]
+}
